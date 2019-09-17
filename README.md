@@ -1,4 +1,4 @@
-# tech-aloud
+# Tech Aloud Podcast
 
 I have a new podcast called [Tech Aloud](https://anchor.fm/tech-aloud). 
 
