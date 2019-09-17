@@ -12,4 +12,4 @@ Note that the articles and blog posts I read out are, by definition, of a style 
 
 Note also that my reading out loud of any given article or blog post does not represent any sort of endorsement from me - it's just that I find it interesting.
 
-This GitHub repo is for me to manage the tasks related to running this podcast; let's see how it goes.
+This GitHub repo is for me to [manage the tasks related to running this podcast](https://github.com/qmacro/tech-aloud/projects/1); let's see how it goes.
