@@ -1,5 +1,4 @@
 # tech-aloud
-Management of activities for the Tech Aloud podcast
 
 I have a new podcast called [Tech Aloud](https://anchor.fm/tech-aloud). 
 
