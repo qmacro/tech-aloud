@@ -14,4 +14,4 @@ Note also that my reading out loud of any given article or blog post does not re
 
 This GitHub repo is for me to [manage the tasks related to running this podcast](https://github.com/qmacro/tech-aloud/projects/1); let's see how it goes.
 
-Update 04 Oct 2019 - for the week of [SAP TechEd Barcelona 2019](https://events.sap.com/teched-emea/en/home) (07 to 11 Oct) you are encouraged to submit candidates articles and blog posts for the podcast. See this post for details: [Submit suggestions for Tech Aloud during SAP TechEd Barcelona](https://blogs.sap.com/2019/10/04/submit-suggestions-for-tech-aloud-during-sap-teched-barcelona/).
+**Update 04 Oct 2019** - for the week of [SAP TechEd Barcelona 2019](https://events.sap.com/teched-emea/en/home) (07 to 11 Oct) you are encouraged to submit candidates articles and blog posts for the podcast. See this post for details: [Submit suggestions for Tech Aloud during SAP TechEd Barcelona](https://blogs.sap.com/2019/10/04/submit-suggestions-for-tech-aloud-during-sap-teched-barcelona/).
